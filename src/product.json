@@ -1,0 +1,25 @@
+{
+    "urunler": [
+      {
+        "urunAdi": "Çay",
+        "fiyat": 15,
+        "resim": "cay.jpg"
+      },
+      {
+        "urunAdi": "Kahve",
+        "fiyat": 15,
+        "resim": "kahve.jpg"
+      },
+      {
+        "urunAdi": "Patates Kızartması",
+        "fiyat": 30,
+        "resim": "patates_kizartmasi.jpg"
+      },
+      {
+        "urunAdi": "Tost",
+        "fiyat": 20,
+        "resim": "tost.jpg"
+      }
+    ]
+  }
+  
